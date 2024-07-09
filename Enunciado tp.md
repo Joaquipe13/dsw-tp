@@ -39,8 +39,7 @@ Adicionales para Aprobación
 |Req|Detalle|
 |:-|:-|
 |CRUD |1. CRUD User<br>2. CRUD Level<br>3. CRUD Topic <br>4. CRUD Subscription<br>5. CRUD Course<br>6. CRUD PurchaseRecord<br>7. CRUD .......|
-|CUU/Epic|1. Create Course
-<br>2. Purchase Level<br>3. Purchase Subscription<br>4.Cancel Subscription|
+|CUU/Epic|1. Create Course<br>2. Purchase Level<br>3. Purchase Subscription<br>4.Cancel Subscription|
 
 
 ### Alcance Adicional Voluntario
