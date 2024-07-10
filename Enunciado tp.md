@@ -16,7 +16,7 @@
 * Se trata de una página web en la que los usuarios pueden visualizar y suscribirse a cursos de su interés. En la misma el administrador es él encargado de la carga de los cursos y de material didáctico.
 
 ### Modelo
-![imagen del modelo](https://app.diagrams.net/#G1FbT6NLbCBV1oyPs5EaJUjWl8YRRR_ayW#%7B%22pageId%22%3A%22C5RBs43oDa-KdzZeNtuy%22%7D)
+![Modelo de Dominio](https://app.diagrams.net/#G1FbT6NLbCBV1oyPs5EaJUjWl8YRRR_ayW#%7B%22pageId%22%3A%22C5RBs43oDa-KdzZeNtuy%22%7D)
 
 
 
