@@ -5,7 +5,7 @@
 * 51034 - Baldomá, Valentín 
 * 50434 - Fernandez Da Silva, Joaquín Carlos
 * 50480 - García, Nicolás
-* 47539 - Riquelme, Patricio
+
 
 ### Repositorios
 
