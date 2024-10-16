@@ -34,7 +34,7 @@ Regularidad:
 |CRUD simple|1. CRUD User<br>2. CRUD Level<br>3. CRUD Topic<br>4. CRUD Subscription|
 |CRUD dependiente|1. CRUD Course {depende de} CRUD Topic / Level<br>2. CRUD Purchase Record {depende de} CRUD Subscription / Course|
 |Listado<br>+<br>detalle| 1. Listado de Courses filtrado por Topic y/o rango de fechas, muestra => Descripcion - Cantdad de Niveles - Precio Total<br> 2. Listado de Users filtrado por Course, Topic, rango de fechas, muestra ......... => detalle  ......... |
-|CUU/Epic|1. Create Course<br>2. Purchase Level|
+|CUU/Epic|1. Create Course<br>2. Purchase Course|
 
 
 Adicionales para Aprobación
