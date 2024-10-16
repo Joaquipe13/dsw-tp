@@ -8,8 +8,10 @@
 * 47539 - Riquelme, Patricio
 
 ### Repositorios
-* [frontend app](https://github.com/Patricionrp/dsw-tp-frontend.git)
-* [backend app](https://github.com/bullettears/dsw-tp-backend.git)
+
+* [Backend app](https://github.com/nicolasgcode/dsw-tp-backend.git)
+* [Antiguo repositorio de frontend app](https://github.com/Patricionrp/dsw-tp-frontend.git)
+* [Nuevo repositorio de frontend](https://github.com/nicolasgcode/courseapp-front.git)
 
 ## Tema
 ### Descripción
