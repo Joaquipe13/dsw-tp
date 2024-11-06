@@ -2,9 +2,7 @@
 
 ## Grupo
 ### Integrantes
-* 51034 - Baldomá, Valentín 
 * 50434 - Fernandez Da Silva, Joaquín Carlos
-* 50480 - García, Nicolás
 
 
 ### Repositorios
