@@ -7,9 +7,10 @@
 
 ### Repositorios
 
-* [Backend app](https://github.com/nicolasgcode/dsw-tp-backend.git)
-* [Antiguo repositorio de frontend app](https://github.com/Patricionrp/dsw-tp-frontend.git)
-* [Nuevo repositorio de frontend](https://github.com/nicolasgcode/courseapp-front.git)
+* [Antiguo repositorio de Backend app](https://github.com/nicolasgcode/dsw-tp-backend.git)
+* [Nuevo repositorio de Backend](https://github.com/Joaquipe13/TP-DSW-Backend.git)
+* [Antiguo repositorio de Frontend app](https://github.com/Patricionrp/dsw-tp-frontend.git)
+* [Nuevo repositorio de Frontend]([https://github.com/nicolasgcode/courseapp-front.git](https://github.com/Joaquipe13/TP-DSW-Frontend.git))
 
 ## Tema
 ### Descripción
