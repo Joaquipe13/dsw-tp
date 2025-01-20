@@ -28,22 +28,22 @@
 Regularidad:
 |Req|Detalle|
 |:-|:-|
-|CRUD simple|1. CRUD User<br>2. CRUD Level<br>3. CRUD Topic<br>4. CRUD Subscription|
-|CRUD dependiente|1. CRUD Course {depende de} CRUD Topic / Level<br>2. CRUD CoursePurchaseRecord {depende de} CRUD Subscription / Course|
-|Listado<br>+<br>detalle| 1. Listado de Courses filtrado por descripcion parcial Descripcion - Cantdad de Niveles - Precio Total => detalle  muesta Crud Course <br> 2. Listado de CoursePurchaseRecords filtrado por: rango de fechas muestra id, title, User name, purchaseAt, totalAmount => detalle  muesta Crud Course |
-|CUU/Epic|1. Create Course<br>2. Purchase Course|
+|CRUD simple|1. CRUD User<br>2. CRUD Topic|
+|CRUD dependiente|1. CRUD Course {depende de} CRUD Topic|
+|Listado<br>+<br>detalle| 1. Listado de Courses filtrado por descripcion parcial Descripcion - Cantdad de Niveles - Precio Total => detalle  muesta Crud Course |
+|CUU/Epic|1. Create Course|
 
 
 Adicionales para Aprobación
 |Req|Detalle|
 |:-|:-|
-|CRUD |1. CRUD User<br>2. CRUD Topic<br>3. CRUD Course <br>4. CRUD Level<br>5. CRUD Unit<br>6. CRUD Subscription<br>7. CRUD PurchaseRecord|
-|CUU/Epic|1. Create Course<br>2. Purchase Course<br>3. Create Subscription<br>4. Purchase Subscription|
+|CRUD |1. CRUD User<br>2. CRUD Topic<br>3. CRUD Course <br>4. CRUD Level<br>5. CRUD Unit<br>6. CRUD CoursePurchaseRecord|
+|CUU/Epic|1. Create Course<br>2. Purchase Course|
 
 
 Alcance Adicional Voluntario
 |Req|Detalle|
 |:-|:-|
-|Listados|2. Listado de CoursePurchaseRecords filtrado por: rango de fechas muestra id, Subscription duration, Subscription description, User name, purchaseAt, activeAt, totalAmount|
-|CRUD |1. CRUD SubsPurchaseRecord|
-|CUU/Epic|1. Create Course<br>2. Purchase Course<br>3. Create Subscription<br>4. Purchase Subscription|
+|Listados|1. Listado de CoursePurchaseRecords filtrado por: rango de fechas muestra id, Subscription duration, Subscription description, User name, purchaseAt, activeAt, totalAmount<br> 2. Listado de CoursePurchaseRecords filtrado por: rango de fechas muestra id, title, User name, purchaseAt, totalAmount => detalle  muesta Crud Course|
+|CRUD |1. CRUD Subscription<br>2. CRUD SubsPurchaseRecord|
+|CUU/Epic|1. Create Subscription<br>3. Purchase Subscription|
