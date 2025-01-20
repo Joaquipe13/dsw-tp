@@ -30,7 +30,7 @@ Regularidad:
 |:-|:-|
 |CRUD simple|1. CRUD User<br>2. CRUD Level<br>3. CRUD Topic<br>4. CRUD Subscription|
 |CRUD dependiente|1. CRUD Course {depende de} CRUD Topic / Level<br>2. CRUD CoursePurchaseRecord {depende de} CRUD Subscription / Course|
-|Listado<br>+<br>detalle| 1. Listado de Courses filtrado por descripcion parcial => Descripcion - Cantdad de Niveles - Precio Total<br> 2. Listado de CoursePurchaseRecords filtrado por: rango de fechas muestra id, title, User name, purchaseAt, totalAmount => detalle  ......... |
+|Listado<br>+<br>detalle| 1. Listado de Courses filtrado por descripcion parcial Descripcion - Cantdad de Niveles - Precio Total => detalle  muesta Crud Course <br> 2. Listado de CoursePurchaseRecords filtrado por: rango de fechas muestra id, title, User name, purchaseAt, totalAmount => detalle  muesta Crud Course |
 |CUU/Epic|1. Create Course<br>2. Purchase Course|
 
 
@@ -44,6 +44,6 @@ Adicionales para Aprobación
 Alcance Adicional Voluntario
 |Req|Detalle|
 |:-|:-|
-|Listados|:-|
+|Listados|2. Listado de CoursePurchaseRecords filtrado por: rango de fechas muestra id, Subscription duration, Subscription description, User name, purchaseAt, activeAt, totalAmount|
 |CRUD |1. CRUD SubsPurchaseRecord|
 |CUU/Epic|1. Create Course<br>2. Purchase Course<br>3. Create Subscription<br>4. Purchase Subscription|
