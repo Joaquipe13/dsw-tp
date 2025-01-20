@@ -29,18 +29,21 @@ Regularidad:
 |Req|Detalle|
 |:-|:-|
 |CRUD simple|1. CRUD User<br>2. CRUD Level<br>3. CRUD Topic<br>4. CRUD Subscription|
-|CRUD dependiente|1. CRUD Course {depende de} CRUD Topic / Level<br>2. CRUD Purchase Record {depende de} CRUD Subscription / Course|
-|Listado<br>+<br>detalle| 1. Listado de Courses filtrado por descripcion parcial => Descripcion - Cantdad de Niveles - Precio Total<br> 2. Listado de Users filtrado por Course, Topic, rango de fechas, muestra ......... => detalle  ......... |
+|CRUD dependiente|1. CRUD Course {depende de} CRUD Topic / Level<br>2. CRUD CoursePurchaseRecord {depende de} CRUD Subscription / Course|
+|Listado<br>+<br>detalle| 1. Listado de Courses filtrado por descripcion parcial => Descripcion - Cantdad de Niveles - Precio Total<br> 2. Listado de CoursePurchaseRecords filtrado por: rango de fechas muestra id, title, User name, purchaseAt, totalAmount => detalle  ......... |
 |CUU/Epic|1. Create Course<br>2. Purchase Course|
 
 
 Adicionales para Aprobación
 |Req|Detalle|
 |:-|:-|
-|CRUD |1. CRUD User<br>2. CRUD Level<br>3. CRUD Topic <br>4. CRUD Subscription<br>5. CRUD Course<br>6. CRUD PurchaseRecord<br>7. CRUD .......|
-|CUU/Epic|1. Create Course<br>2. Purchase Level<br>3. Purchase Subscription<br>4.Cancel Subscription|
+|CRUD |1. CRUD User<br>2. CRUD Topic<br>3. CRUD Course <br>4. CRUD Level<br>5. CRUD Unit<br>6. CRUD Subscription<br>7. CRUD PurchaseRecord|
+|CUU/Epic|1. Create Course<br>2. Purchase Course<br>3. Create Subscription<br>4. Purchase Subscription|
 
 
-### Alcance Adicional Voluntario
-
-...
+Alcance Adicional Voluntario
+|Req|Detalle|
+|:-|:-|
+|Listados|:-|
+|CRUD |1. CRUD SubsPurchaseRecord|
+|CUU/Epic|1. Create Course<br>2. Purchase Course<br>3. Create Subscription<br>4. Purchase Subscription|
