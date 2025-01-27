@@ -46,5 +46,5 @@ Alcance Adicional Voluntario
 |:-|:-|
 |Listados|1. Listado de CoursePurchaseRecords filtrado por: rango de fechas muestra id, Subscription duration, Subscription description, User name, purchaseAt, activeAt, totalAmount<br> 2. Listado de CoursePurchaseRecords filtrado por: rango de fechas muestra id, title, User name, purchaseAt, totalAmount => detalle  muesta Crud Course|
 |CRUD |1. CRUD Subscription<br>2. CRUD SubsPurchaseRecord|
-|CUU/Epic|1. Create Subscription<br>3. Purchase Subscription|
+|CUU/Epic|1. Create Subscription<br>2. Purchase Subscription|
 |Otros|1. Envío de confirmación de compra por email|
